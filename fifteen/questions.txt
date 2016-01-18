@@ -1,0 +1,19 @@
+questions.txt
+
+Computer Science 50
+Problem Set 3
+
+0. TODO
+1. TODO
+2. TODO
+3. TODO
+
+1. The framework allows boards with dimensions 
+between 3x3 (minimum) and 9x9 (maximum).
+2. We use the type-int array data structure to store a 
+bunch of integers that represent the numbers
+on the board.
+3. The function greet() is called to
+greet the player at game's start.
+4. I need to implement init(), draw(),
+move(), and won().
